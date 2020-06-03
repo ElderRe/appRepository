@@ -1,0 +1,13 @@
+C:\Users\yairc\source\repos\repository\repository\bin\Debug\netcoreapp3.1\repository.exe
+C:\Users\yairc\source\repos\repository\repository\bin\Debug\netcoreapp3.1\repository.deps.json
+C:\Users\yairc\source\repos\repository\repository\bin\Debug\netcoreapp3.1\repository.runtimeconfig.json
+C:\Users\yairc\source\repos\repository\repository\bin\Debug\netcoreapp3.1\repository.runtimeconfig.dev.json
+C:\Users\yairc\source\repos\repository\repository\bin\Debug\netcoreapp3.1\repository.dll
+C:\Users\yairc\source\repos\repository\repository\bin\Debug\netcoreapp3.1\repository.pdb
+C:\Users\yairc\source\repos\repository\repository\obj\Debug\netcoreapp3.1\repository.csprojAssemblyReference.cache
+C:\Users\yairc\source\repos\repository\repository\obj\Debug\netcoreapp3.1\repository.AssemblyInfoInputs.cache
+C:\Users\yairc\source\repos\repository\repository\obj\Debug\netcoreapp3.1\repository.AssemblyInfo.cs
+C:\Users\yairc\source\repos\repository\repository\obj\Debug\netcoreapp3.1\repository.csproj.CoreCompileInputs.cache
+C:\Users\yairc\source\repos\repository\repository\obj\Debug\netcoreapp3.1\repository.dll
+C:\Users\yairc\source\repos\repository\repository\obj\Debug\netcoreapp3.1\repository.pdb
+C:\Users\yairc\source\repos\repository\repository\obj\Debug\netcoreapp3.1\repository.genruntimeconfig.cache
